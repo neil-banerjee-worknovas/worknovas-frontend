@@ -1,0 +1,1 @@
+import{r as s,a2 as u,a8 as e}from"./index-CuprRf9A.js";var c=e[" useId ".trim().toString()]||(()=>{}),f=0;function d(t){const[a,r]=s.useState(c());return u(()=>{t||r(o=>o??String(f++))},[t]),t||(a?`radix-${a}`:"")}export{d as u};
